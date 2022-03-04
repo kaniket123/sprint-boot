@@ -49,5 +49,5 @@ jobs:
         with:
           app-name: 'JAVA-ANGULAR-WEB'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_6D11CF281AE447F1B93CB1CF306A119C }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_9D10D0A620304A999686A9B06E4AB705 }}
           package: '*.jar'
